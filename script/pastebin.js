@@ -5,7 +5,7 @@ const path = require('path');
 module.exports.config = {
 		name: "pastebin",
 		version: "1.0",
-		credits: "cliff",
+		credits: "Vincent Armenion",
 		cooldown: 5,
 		role: 2,
 		hasPrefix: false,
