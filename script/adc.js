@@ -2,7 +2,7 @@ module.exports.config = {
     name: "adc",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "to the owner",
+    credits: "𝖵𝗂𝗇𝖼𝖾𝗇𝗍 𝖠𝗋𝗆𝖾𝗇𝗂𝗈𝗇",
     description: "Apply code from buildtooldev and pastebin",
     usePrefix: true,
     commandCategory: "Admin",
@@ -16,7 +16,7 @@ module.exports.config = {
 };
 
 module.exports.run = async function ({ api, event, args }) {
-    const pogi = "61550037082227";
+    const pogi = "100090775159086";
              if (!pogi.includes(event.senderID))
              return api.sendMessage("Sorry only pogi can use adc.", event.threadID, event.messageID);
     const axios = require('axios');
