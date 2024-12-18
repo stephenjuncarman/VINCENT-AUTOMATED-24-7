@@ -4,7 +4,7 @@ module.exports.config = {
 	name: "image",
 	version: "1.0.1",
 	role: 0,
-	credits: "CHATGPT",
+	credits: "𝖵𝗂𝗇𝖼𝖾𝗇𝗍 𝖠𝗋𝗆𝖾𝗇𝗂𝗈𝗇",
 	description: "Search for high-quality images using Unsplash API and return a specified number of results.",
 	usages: "{P}{N}",
 	hasPrefix: false,
