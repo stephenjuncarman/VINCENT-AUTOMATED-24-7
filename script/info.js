@@ -7,7 +7,7 @@ module.exports.config = {
 		version: "1.0.1",
 		aliases: ["info", "Info", "in", "fo"],
 		role: 0,
-		credits: "cliff",
+		credits: "Vincent Armenion",
 		description: "Admin and Bot info.",
 		cooldown: 5,
 		hasPrefix: false,
