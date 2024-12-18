@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "callad",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "NTKhang, ManhG Fix Get",
+	credits: "𝖵𝗂𝗇𝖼𝖾𝗇𝗍 𝖠𝗋𝗆𝖾𝗇𝗂𝗈𝗇",
 	description: "Report bot's error to admin or comment",
 	usages: "[Error encountered or comments]",
 	cooldown: 5,
