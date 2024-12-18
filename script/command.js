@@ -2,7 +2,7 @@ module.exports.config = {
     name: "command",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "Mirai Team",
+    credits: "Vincent Armenion",
     description: "Manage/Control all bot modules",
     usePrefix: true,
     commandCategory: "Admin",
