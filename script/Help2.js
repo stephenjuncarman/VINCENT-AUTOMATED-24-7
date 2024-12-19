@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: 'help',
+  name: 'help2',
   version: '2',
   role: 0,
   hasPrefix: true,
