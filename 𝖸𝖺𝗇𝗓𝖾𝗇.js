@@ -5,7 +5,7 @@ module.exports.config = {
  version: ".",
  role: 0,
  aliases: ["pop"],
- credits: "cliff",
+ credits: "𝖵𝗂𝗇𝖼𝖾𝗇𝗍 𝖠𝗋𝗆𝖾𝗇𝗂𝗈𝗇",
  description: ".",
  usages: ".",
  hasPrefix: false,
