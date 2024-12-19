@@ -1,5 +1,5 @@
 
-#AUTOBOT 𝗕𝗬 𝗩𝗜𝗡𝗖𝗘𝗡𝗧𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 
+#AUTOBOT 𝗕𝗬 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 
 # PROJECT CREATOR</h1>
 <img src="https://i.imgur.com/4LALGwQ.jpeg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
