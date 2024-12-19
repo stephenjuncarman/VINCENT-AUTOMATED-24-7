@@ -5,7 +5,7 @@
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
 
 # FB PROFILE PHOTO</h1>
-<img src="https://i.imgur.com/4LALGwQ.jpeg" alt="banner">
+<img src="https://i.imgur.com/PvBCFzY.jpeg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
  
   #『 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 』 V𝟭 - ABOUT PROJECT INFORMATION</h1>
