@@ -16,11 +16,11 @@ const stickers = [
 ];
 
 module.exports.config = {
-    name: 'ai',
+    name: 'ai2',
     version: '2',
     role: 0,
     hasPrefix: false,
-    aliases: ["12"],
+    aliases: ["Ai"],
     description: "Command for AI-generated responses styled with special fonts and emojis.",
     usage: "ex : ai [prompt]",
     credits: 'Vincent Armenion',
