@@ -4,7 +4,7 @@ module.exports.config = {
 		role: 0,
 		description: "Generate image",
 		usages: "[text]",
-		credits: "Deku",
+		credits: "Armenion",
 		aliases: ["gen"]
 };
 
