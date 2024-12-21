@@ -40,7 +40,7 @@ module.exports.run = async function ({ api, event, args }) {
             // Replace characters in the response with stylized characters from fonts
             const stylizedResponse = answer.split('').map(char => fonts[char] || char).join('');
 
-            const formattedResponse = 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗕𝗢𝗧\n◈════━━━◈━━━════◈\n${stylizedResponse}\n◈════━━━◈━━━════◈\𝗢𝘄𝗻𝗲𝗿-𝗟𝗶𝗻𝗸:https://www.facebook.com/100090775159086`;
+            const formattedResponse = 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗕𝗢𝗧\n◈════━━━✧◈✧━━━════◈\n${stylizedResponse}\n◈════━━━✧◈✧━━━════◈\𝗢𝘄𝗻𝗲𝗿-𝗟𝗶𝗻𝗸:https://www.facebook.com/100090775159086`;
 
             await api.editMessage(formattedResponse, initialMessage.messageID);
         } catch (error) {
