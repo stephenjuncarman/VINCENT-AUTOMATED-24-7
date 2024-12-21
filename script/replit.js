@@ -4,7 +4,7 @@ module.exports.config = {
 		name: "replit",
 		version: "2.1.2",
 		role: 0,
-		credits: "Hazeyy", //modify by cliff
+		credits: "Armenion",
 		description: "Use Replit AI for various tasks",
 		usages: "Replit AI",
 		hasPrefix: false,
