@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/PvBCFzY.jpeg" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 
  
-  #『 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 』 V𝟭 - ABOUT PROJECT INFORMATION</h1>
+  # 𝗩𝗜𝗡𝗖𝗘𝗡𝗧 𝗔𝗥𝗠𝗘𝗡𝗜𝗢𝗡 V𝟭 - ABOUT PROJECT INFORMATION</h1>
 
 # MESSANGER CHAT BOT
 # MESSANGER CHATBOT BETA V1
