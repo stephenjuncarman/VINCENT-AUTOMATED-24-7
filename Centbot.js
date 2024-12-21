@@ -1,8 +1,8 @@
 module.exports.config = {
- name: "mark",
+ name: "centbot",
  version: "1.0.1",
  role: 0,
- credits: "MewMew mod By hungdz30cm",
+ credits: "Armenion",
  description: "Comment on the board",
  usages: "[text]",
  hasPrefix: false,
